@@ -3,5 +3,4 @@ Reshuffle is a cutting-edge iOS application designed to revolutionize the way pr
 
 
 
-https://github.com/vanshpitalia/Reshuffle/assets/103600631/565c95b5-9a60-4249-b826-89779466a7e9
 
